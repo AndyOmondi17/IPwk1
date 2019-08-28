@@ -1,9 +1,10 @@
 body{
-  font-family: 'Schoolbell', cursive;
-  background: url(../images/download(2).jpeg)no-repeat;
-  background-size: cover;
-  color:white;
 
+  background: url(../images/q.jpeg)no-repeat;
+  background-size: cover;
+  color:black;
+  font-family: 'Schoolbell', cursive;
+  height:
 }
 .name{
   font-size: 70px;
